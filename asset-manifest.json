@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d37287d9.css",
+    "main.js": "/static/js/main.f6e2f0ff.js",
+    "static/js/787.53b2a456.chunk.js": "/static/js/787.53b2a456.chunk.js",
+    "static/media/ProfilePicture2.png": "/static/media/ProfilePicture2.bacedd24f30e3466a093.png",
+    "static/media/MinimalistCVResume.png": "/static/media/MinimalistCVResume.3c21e3e4004f0ea09226.png",
+    "static/media/responsive_web_design_icon-removebg-preview.png": "/static/media/responsive_web_design_icon-removebg-preview.0aa301349168d93047ba.png",
+    "static/media/MyLogo2.png": "/static/media/MyLogo2.0b17f5db66358faf2f4d.png",
+    "static/media/web-development-icon-removebg-preview.png": "/static/media/web-development-icon-removebg-preview.35eb6ceb499f4eace008.png",
+    "static/media/web_design_icon-removebg-preview.png": "/static/media/web_design_icon-removebg-preview.59ccae890f12dc42e71e.png",
+    "static/media/graphic_design_icons-removebg-preview.png": "/static/media/graphic_design_icons-removebg-preview.d80327171831c627e2b3.png",
+    "static/media/uiux22-removebg-preview.png": "/static/media/uiux22-removebg-preview.53a7afa17a4efae2cc58.png",
+    "index.html": "/index.html",
+    "main.d37287d9.css.map": "/static/css/main.d37287d9.css.map",
+    "main.f6e2f0ff.js.map": "/static/js/main.f6e2f0ff.js.map",
+    "787.53b2a456.chunk.js.map": "/static/js/787.53b2a456.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d37287d9.css",
+    "static/js/main.f6e2f0ff.js"
+  ]
+}
